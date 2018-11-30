@@ -51,7 +51,9 @@
           zIndex:'',
         });
 
-       $('html').smoothScroll();
+       $('html').smoothScroll({
+       offset:-50,
+       });
 
 
 
