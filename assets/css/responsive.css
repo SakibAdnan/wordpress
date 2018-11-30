@@ -9,9 +9,6 @@
     margin-top: 24px;
 }
 
-
-
-
 }
 
 
@@ -38,7 +35,9 @@
 .is-sticky .site-logo a {
     margin-top: 28px;
 }
-
+.main-menu ul li a {
+    padding: 24px 4px;
+}
 
 }
 
@@ -196,6 +195,13 @@ input[type="text"], input[type="email"], input[type="url"], textarea {
     line-height: 1.6;
 }
 
+.testimual-list.owl-carousel .owl-item img {
+    height: 100px;
+}
+
+.about-content {
+    padding-left: 0;
+}
 
  }   
     
