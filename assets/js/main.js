@@ -52,7 +52,7 @@
         });
 
        $('html').smoothScroll({
-       offset:-50,
+       offset:-70,
        });
 
 
