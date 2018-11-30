@@ -248,7 +248,9 @@ a.skill-icon:hover {
     font-size: 80%;
     color:#ccc;
 }
-
+.testimual-list.owl-carousel .owl-item img {
+    height: 150px;
+}
 .barfiller {
     height: 5px;
     border: navajowhite;
