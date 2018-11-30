@@ -659,3 +659,14 @@ input[type="text"], input[type="email"], input[type="url"], textarea {
     background-size: cover;
     background-color: #ddd;
 }
+.about-athor {
+    z-index: 1;
+}
+
+.project {
+    z-index: 1;
+}
+
+.testymual-saction {
+    z-index: 1;
+}
